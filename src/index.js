@@ -1,8 +1,7 @@
 import Vue from 'vue'
 import App from './app.vue'
 
-import './assets/styles/test.css'
-import './assets/styles/test.scss'
+import './assets/styles/gloabel.scss'
 
 const root = document.createElement('div')
 document.body.appendChild(root)
